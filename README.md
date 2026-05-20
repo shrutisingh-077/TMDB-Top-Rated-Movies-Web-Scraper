@@ -20,7 +20,7 @@ This project is a Python-based web scraping application developed to extract top
  - Regular Expressions (Regex)
  - Jupyter Notebook
 
-# Sample Output Columns
+## Output Columns
 | Column Name     |
 | --------------- |
 | Movie Name      |
