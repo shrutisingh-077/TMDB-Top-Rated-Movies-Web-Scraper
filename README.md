@@ -1,6 +1,6 @@
 # TMDB-Top-Rated-Movies-Web-Scraper
 A Python-based web scraping project that extracts top-rated movie data from TMDB using BeautifulSoup and Requests. The project collects movie details such as title, release year, ratings, runtime, genres, descriptions, and links, then cleans and exports the dataset into CSV/Excel format for data analysis and visualization
-# Overview
+## Overview
 This project is a Python-based web scraping application developed to extract top-rated movie data from TMDB (The Movie Database) using BeautifulSoup and Requests libraries. The scraper collects structured information such as movie titles, release year, ratings, runtime, genres, descriptions, and movie links from multiple pages of TMDB.
 # Features
 Scraped 100+ top-rated movies from TMDB
